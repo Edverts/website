@@ -61,6 +61,10 @@ a {
     color: inherit;
 }
 
+.nostyle:hover {
+    color: #333;
+}
+
 .last-row h2:not(.tandc) {
     padding: 0;
     margin: 0;
