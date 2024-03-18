@@ -132,6 +132,10 @@ hr {
     text-decoration-line: none;
 }
 
+.tab:hover {
+    background: #435d45;
+}
+
 
 @media (max-width: 768px) {
 
