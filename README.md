@@ -12,9 +12,6 @@ Clone the repo and run:
 `npm init -y`
 `npm install --save-dev @11ty/eleventy`
 
-If you need sass:
-`npm install --save-dev sass sass-loader`
-
 To run the website locally (e.g. localhost:8080 by default):
 
 `npx @11ty/eleventy --serve`
