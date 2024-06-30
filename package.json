@@ -1,11 +1,21 @@
 {
     "devDependencies": {
         "@11ty/eleventy": "^2.0.1",
-        "eleventy-sass": "^2.2.4"
+        "eleventy-sass": "^2.2.4",
+        "sass": "^1.77.6",
+        "sass-loader": "^14.2.1"
     },
-    "name": "website",
+    "name": "Edverts Website",
     "version": "1.0.0",
     "main": "eleventy.js",
+    "scripts": {
+        "start": "npx @11ty/eleventy --serve",
+        "build": "npx @11ty/eleventy"
+    },
+    "keywords": [],
+    "author": "Geesche Jalba-Verseck",
+    "license": "ISC",
+    "description": "Eleventy based Static Website",
     "dependencies": {
         "a-sync-waterfall": "^1.0.1",
         "acorn": "^7.4.1",
@@ -194,13 +204,5 @@
         "wrappy": "^1.0.2",
         "ws": "^8.17.1",
         "yallist": "^4.0.0"
-    },
-    "scripts": {
-        "start": "npx @11ty/eleventy --serve",
-        "build": "npx @11ty/eleventy"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "description": ""
+    }
 }
