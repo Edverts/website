@@ -3,7 +3,7 @@ name: Deploy Eleventy to GitHub Pages
 on:
   push:
     branches:
-      - eleventy  # or 'master' or any other branch you use as the default
+      - main  # or 'master' or any other branch you use as the default
 
 jobs:
   build:
