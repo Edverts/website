@@ -8,7 +8,14 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css");
     eleventyConfig.addPassthroughCopy("./src/fonts");
     eleventyConfig.addPassthroughCopy("./src/img");
-    
+
+    eleventyConfig.addPassthroughCopy("./src/*.png");
+    eleventyConfig.addPassthroughCopy("./src/*.ico");
+    eleventyConfig.addPassthroughCopy("./src/*.xml");
+    eleventyConfig.addPassthroughCopy("./src/*.svg");
+    eleventyConfig.addPassthroughCopy("./src/*.webmanifest");
+    eleventyConfig.addPassthroughCopy("./src/*.json");
+
     eleventyConfig.addPlugin(eleventySass);
   
     return {
@@ -16,5 +23,6 @@ module.exports = function (eleventyConfig) {
         input: "src",
         output: "docs",
       },
+      passthroughFileCopy: true
     };
   };
