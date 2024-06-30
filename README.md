@@ -9,7 +9,11 @@ See also: https://www.11ty.dev/
 ## Installation
 Clone the repo and run:
 
-npm install @11ty/eleventy --save-dev
+`npm install @11ty/eleventy --save-dev`
+
+To run the website locally (e.g. localhost:8080 by default):
+
+`npx @11ty/eleventy --serve`
 
 See also: https://www.npmjs.com/package/@11ty/eleventy
 
