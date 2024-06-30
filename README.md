@@ -9,7 +9,11 @@ See also: https://www.11ty.dev/
 ## Installation
 Clone the repo and run:
 
-`npm install @11ty/eleventy --save-dev`
+`npm init -y`
+`npm install --save-dev @11ty/eleventy`
+
+If you need sass:
+`npm install --save-dev sass sass-loader`
 
 To run the website locally (e.g. localhost:8080 by default):
 
