@@ -43,6 +43,6 @@ permalink: "/tandc.html"
     <p>If you have any questions about these Terms, please contact us at
     <a href="mailto:info@edverts.com">info@edverts.com</a>.</p>
 
-    <a class="mtop-large" href="/">< back</a>
+    <a class="mtop-large" href="https://www.edverts.com">< back</a>
 
 </section>
