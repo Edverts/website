@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Home
+title: Edverts
 ---
 
 <div class="grid-container">
