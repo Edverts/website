@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Terms and Conditions
+permalink: "/tandc.html"
 ---
 
 <div><a href="https://www.edverts.com" class="tab">Edverts</a></div>
