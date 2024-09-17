@@ -1,0 +1,125 @@
+---
+layout: layouts/base.njk
+title: Data Privacy Policy
+permalink: "../data-privacy.html"
+---
+
+<div><a href="https://www.edverts.com" class="tab">Edverts</a></div>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <h1>Data Privacy</h1>
+        <h2 class="tandc">Personal and sensitive information has become a critical concern for individuals and organizations alike. Ensuring its protection from unauthorized access and misuse is paramount. This section explores the importance of data privacy, key regulations, and best practices to safeguard personal information.</h2>
+    </div>
+</div>
+
+        <section class="tandc-section">
+            <h3>1. Data Privacy Policy</h3>
+            <p>Date: 16/09/2024</p>
+
+            <h3>2. Information We Collect</h3>
+            <p>At Edverts, your privacy is of paramount importance. This Data Privacy Policy outlines how we collect, use, share, and protect your personal information in compliance with relevant data protection laws and regulations. By using our services, you agree to the practices described below.</p>
+            <p>We collect the following types of personal information, depending on your interaction with our services:</p>
+            <ul>
+                <li>Personal Identification Information: Name, Nick name, email address, etc.</li>
+                <li>Technical Data: Device type, Operating system and usage details.</li>
+                <li>Cookies and Tracking Technologies: We use cookies, web beacons, and similar tracking technologies to gather data about your browsing activities.</li>
+            </ul>
+
+            <h3>3. How We Use Your Data</h3>
+            <p>We use your personal data for the following purposes:</p>
+            <ul>
+                <li>Service Delivery: To provide, maintain, and improve our products and services.</li>
+                <li>Communication: To send you service-related updates, responses to your inquiries, and promotional offers (with your consent).</li>
+                <li>Customization: To tailor the user experience based on preferences and previous interactions.</li>
+                <li>Legal Compliance: To comply with legal obligations, such as data protection laws.</li>
+                <li>Security: To detect and prevent fraud, unauthorized access, or other criminal activities.</li>
+            </ul>
+
+            <h3>4. Legal Basis for Processing Your Data</h3>
+            <p>We process your personal information under the following legal grounds:</p>
+            <ul>
+                <li>Consent: When you voluntarily provide your information or opt into marketing communications.</li>
+                <li>Contractual Obligation: When necessary to fulfill our contractual obligations to you (e.g., delivering a product or service).</li>
+                <li>Legal Requirement: When processing is necessary to comply with legal obligations.</li>
+                <li>Legitimate Interests: For purposes such as improving our services or protecting our legal rights, provided such interests do not override your data privacy rights.</li>
+            </ul>
+
+            <h3>5. Data Sharing</h3>
+            <p>We do not sell your personal information. However, we may share your data with trusted third parties under the following conditions:</p>
+            <ul>
+                <li>Service Providers: We work with vendors and contractors who help deliver our services (e.g., cloud service providers). These parties are bound by confidentiality and security obligations.</li>
+                <li>Legal and Regulatory Authorities: We may disclose information when required to comply with laws, court orders, or government regulations.</li>
+                <li>Business Transfers: In the event of a merger, acquisition, or sale of assets, your data may be transferred to the new owner, subject to the same privacy protections.</li>
+            </ul>
+
+            <h3>6. Your Rights and Choices</h3>
+            <p>You have several rights in relation to your personal information under applicable laws:</p>
+            <ul>
+                <li>Access: You can request access to your personal data and obtain a copy of it.</li>
+                <li>Correction: You can request that we correct any inaccurate or incomplete personal information.</li>
+                <li>Deletion (Right to be Forgotten): You can request the deletion of your personal data, subject to certain legal exceptions.</li>
+                <li>Portability: You can request a copy of your data in a structured, machine-readable format.</li>
+                <li>Restrict Processing: You can request that we restrict the processing of your data under specific circumstances.</li>
+                <li>Opt-Out of Marketing: You can opt out of receiving promotional emails or other marketing communications at any time.</li>
+                <li>Withdraw Consent: If we process your data based on your consent, you can withdraw that consent at any time.</li>
+            </ul>
+
+            <h3>7. Opting Out of Data Collection</h3>
+            <ul>
+                <li>Cookies: You can control cookies through your browser settings. Note that disabling cookies may affect the functionality of our services.</li>
+                <li>Do Not Track: Some browsers offer a "Do Not Track" feature. While we honor this request, some third-party services may still collect your data.</li>
+                <li>Targeted Ads: You may opt out of targeted advertising by managing your preferences in your account or through industry opt-out tools (e.g., Digital Advertising Alliance, Network Advertising Initiative).</li>
+            </ul>
+
+            <h3>8. Opting Out via Form</h3>
+            <p>If you prefer to opt out of our data collection practices or request the deletion of your personal information via a mail-in form, you can do so by following these steps:</p>
+
+            <ol>
+                <li>Visit
+                    <a href="http://www.edverts.com/opt-out/">http://www.edverts.com/opt-out/</a>
+                    to complete the official Data Opt-Out Request Form. You may also request a form by contacting us directly.</li>
+
+                <li>Provide Required Information:</li>
+                <p>In the form, please provide the following details to help us locate and process your request:</p>
+                <ul>
+                    <li>Full name</li>
+                    <li>Email address associated with your account</li>
+                    <li>Mailing address</li>
+                    <li>Specific request (e.g., opt out of marketing, request data deletion, etc.)</li>
+                    <li>A clear statement of your consent to the opt-out request</li>
+                </ul>
+                <li>Processing Your Request: Once we receive your completed form, we will process your request within 30 days. You will receive a confirmation once your opt-out request has been successfully processed. Please allow additional time for mail delivery.</li>
+            </ol>
+
+            <p>If you have any questions regarding the form or need assistance, please contact our Data Privacy Officer at
+                <a href="mailto:info@edverts.com">info@edverts.com</a>.</p>
+            <p>Your privacy is important to us, and we are committed to honoring your request in accordance with applicable data privacy regulations.</p>
+
+            <h3>9. Data Security</h3>
+            <p>We implement strong security measures to protect your data from unauthorized access, alteration, or disclosure. These include:</p>
+            <ul>
+                <li>Encryption: We use encryption to safeguard your data both in transit and at rest.</li>
+                <li>Access Controls: Access to your data is restricted to authorized personnel only.</li>
+                <li>Monitoring: We monitor our systems for vulnerabilities and potential threats.</li>
+            </ul>
+            <p>However, no system can guarantee complete security. By using our services, you acknowledge that the transmission of data over the internet carries inherent risks.</p>
+
+            <h3>10. Data Retention</h3>
+            <p>We retain your personal information for as long as necessary to fulfill the purposes for which it was collected, or as required by law. Once your data is no longer needed, we will securely delete or anonymize it.</p>
+
+            <h3>11. International Data Transfers</h3>
+            <p>If you are accessing our services from outside your home country, your data may be transferred to, stored, and processed in a country with data protection laws that differ from your own. In such cases, we will ensure that your personal information is adequately protected by implementing safeguards, such as standard contractual clauses.</p>
+
+            <h3>12. Changes to This Policy</h3>
+            <p>We may update this Data Privacy Policy periodically to reflect changes in our practices or applicable laws. Any significant changes will be posted on this page, and we will notify you via email or other channels if required by law.</p>
+
+            <h3>13. Contact Information</h3>
+            <p>If you have any questions or concerns about our Data Privacy Policy or how your data is handled, please contact us:</p>
+            <ul>
+                <li>Email:
+                    <a href="mailto:info@edverts.com">info@edverts.com</a>
+                </li>
+            </ul>
+            <p>Your continued use of our services constitutes your acceptance of this Data Privacy Policy and any updates made to it.</p>
+        </section>

@@ -36,6 +36,24 @@ body {
     background-color: #b5ddb8;
 }
 
+.store-images {
+    display: flex;
+    justify-content: space-between; /* Or use space-around/space-evenly */
+    align-items: center; /* Vertically center the images */
+    gap: 20px; /* Optional: adds space between images */
+}
+
+.store-images a {
+    flex-grow: 1; /* Ensure both anchor tags grow equally */
+    display: flex; /* Flex context for the img */
+    justify-content: center;
+}
+
+.store-img {
+    max-width: 100%; /* Ensures images scale within their containers */
+    height: auto;
+}
+
 .first-row {
     padding-right: 4em;
 }
