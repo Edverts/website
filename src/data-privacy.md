@@ -85,7 +85,6 @@ permalink: "../data-privacy.html"
                 <ul>
                     <li>Full name</li>
                     <li>Email address associated with your account</li>
-                    <li>Mailing address</li>
                     <li>Specific request (e.g., opt out of marketing, request data deletion, etc.)</li>
                     <li>A clear statement of your consent to the opt-out request</li>
                 </ul>
