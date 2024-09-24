@@ -19,9 +19,9 @@ title: Edverts
             <a href="https://play.google.com/store/apps/details?id=com.edverts.edverts" target="blank" class="nostyle">
                 <img src="img/google-play.png" alt="Edverts on Google Play Store" width="100%" class=""/>
             </a>
-            <a href="https://www.amazon.com/dp/B0CW3N2XYX?tag=edverts-20" target="blank" class="nostyle">
+            <!--a href="https://www.amazon.com/dp/B0CW3N2XYX?tag=edverts-20" target="blank" class="nostyle">
                 <img src="img/amazon.png" alt="Edverts on Amazon Fire Tablet" width="100%" class=""/>
-            </a>
+            </!--a-->
         </div>
     </div>
     <div class="grid-item first-row">
